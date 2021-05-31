@@ -21,6 +21,7 @@ Please note: All project files are in German, as this was the language of the co
 ```  
 +-- images                    
 +-- data_driven_decisions_teamwork.ipynb
++-- data_driven_decisions_teamwork.html
 +-- onepager-final.pdf
 +-- README.md
 
@@ -28,6 +29,7 @@ Please note: All project files are in German, as this was the language of the co
 ## Links to Ressources
 
 - Data_Analytics as [iPython](https://github.com/marvher/Data_Driven_Decisions_MTC-Seminar_SS2019.FAU/blob/main/data_driven_decisions_teamwork.ipynb)
+- Data_Analytics as [HTML](https://github.com/marvher/Data_Driven_Decisions_MTC-Seminar_SS2019.FAU/blob/main/data_driven_decisions_teamwork.html)
 - Final Presentation as [PDF](https://github.com/marvher/Data_Driven_Decisions_MTC-Seminar_SS2019.FAU/blob/main/onepager-final.pdf)
 
 ## Ressources
