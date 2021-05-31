@@ -3,7 +3,7 @@
     <img src="./images/techfak_logo.jpg" width="700" height="250">
     <hr>
     <h1 style="color:black">Data-driven Decision Making with Chicago Crimes Dataset <h1>
-    <h3 style="color:black">Marvin Herchenbach<h3>
+    <h3 style="color:black">Marvin Herchenbach and four other team members<h3>
   </div>
   <hr>
 </div>
